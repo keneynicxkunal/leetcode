@@ -49,6 +49,7 @@
 | [0014-longest-common-prefix](https://github.com/keneynicxkunal/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keneynicxkunal/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/keneynicxkunal/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/keneynicxkunal/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
