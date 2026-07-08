@@ -11,6 +11,7 @@
 | [0014-longest-common-prefix](https://github.com/keneynicxkunal/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/keneynicxkunal/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/keneynicxkunal/leetcode/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/keneynicxkunal/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keneynicxkunal/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/keneynicxkunal/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
