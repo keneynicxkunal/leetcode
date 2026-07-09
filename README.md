@@ -54,6 +54,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keneynicxkunal/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/keneynicxkunal/leetcode/tree/master/0038-count-and-say) |
 ## Sliding Window
 |  |
 | ------- |
