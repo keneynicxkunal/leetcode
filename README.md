@@ -44,6 +44,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/keneynicxkunal/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/keneynicxkunal/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/keneynicxkunal/leetcode/tree/master/0044-wildcard-matching) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0032-longest-valid-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/keneynicxkunal/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/keneynicxkunal/leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/keneynicxkunal/leetcode/tree/master/0044-wildcard-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -86,10 +88,12 @@
 | [0005-longest-palindromic-substring](https://github.com/keneynicxkunal/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/keneynicxkunal/leetcode/tree/master/0044-wildcard-matching) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/keneynicxkunal/leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/keneynicxkunal/leetcode/tree/master/0044-wildcard-matching) |
 ## Trie
 |  |
 | ------- |
