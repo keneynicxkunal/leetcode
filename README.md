@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/keneynicxkunal/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/keneynicxkunal/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,11 +90,13 @@
 | [0022-generate-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/keneynicxkunal/leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0045-jump-game-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/keneynicxkunal/leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/keneynicxkunal/leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
 | ------- |
