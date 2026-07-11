@@ -16,6 +16,7 @@
 | [0039-combination-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/keneynicxkunal/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0047-permutations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | ------- |
 | [0015-3sum](https://github.com/keneynicxkunal/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/keneynicxkunal/leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0047-permutations-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [0022-generate-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/keneynicxkunal/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0047-permutations-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
