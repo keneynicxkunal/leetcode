@@ -29,6 +29,7 @@
 | [0059-spiral-matrix-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/keneynicxkunal/leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0043-multiply-strings](https://github.com/keneynicxkunal/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/keneynicxkunal/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/keneynicxkunal/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/keneynicxkunal/leetcode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
