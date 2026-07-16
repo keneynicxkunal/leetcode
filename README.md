@@ -30,6 +30,7 @@
 | [0063-unique-paths-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/keneynicxkunal/leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/keneynicxkunal/leetcode/tree/master/0068-text-justification) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0044-wildcard-matching](https://github.com/keneynicxkunal/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/keneynicxkunal/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/keneynicxkunal/leetcode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/keneynicxkunal/leetcode/tree/master/0068-text-justification) |
 ## Sliding Window
 |  |
 | ------- |
@@ -174,4 +176,5 @@
 | [0043-multiply-strings](https://github.com/keneynicxkunal/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/keneynicxkunal/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/keneynicxkunal/leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
