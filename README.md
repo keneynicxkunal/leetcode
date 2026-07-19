@@ -39,6 +39,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/keneynicxkunal/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/keneynicxkunal/leetcode/tree/master/0085-maximal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [0055-jump-game](https://github.com/keneynicxkunal/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/keneynicxkunal/leetcode/tree/master/0085-maximal-rectangle) |
 ## Greedy
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/keneynicxkunal/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/keneynicxkunal/leetcode/tree/master/0085-maximal-rectangle) |
 ## Matrix
 |  |
 | ------- |
@@ -191,6 +194,7 @@
 | [0073-set-matrix-zeroes](https://github.com/keneynicxkunal/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/keneynicxkunal/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/keneynicxkunal/leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/keneynicxkunal/leetcode/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
@@ -210,4 +214,5 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/keneynicxkunal/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/keneynicxkunal/leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
