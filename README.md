@@ -47,6 +47,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/keneynicxkunal/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/keneynicxkunal/leetcode/tree/master/0120-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0085-maximal-rectangle](https://github.com/keneynicxkunal/leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/keneynicxkunal/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/keneynicxkunal/leetcode/tree/master/0120-triangle) |
 ## Greedy
 |  |
 | ------- |
