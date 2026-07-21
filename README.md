@@ -45,6 +45,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/keneynicxkunal/leetcode/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [0063-unique-paths-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/keneynicxkunal/leetcode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/keneynicxkunal/leetcode/tree/master/0118-pascals-triangle) |
 ## Greedy
 |  |
 | ------- |
