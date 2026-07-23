@@ -52,6 +52,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/keneynicxkunal/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/keneynicxkunal/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/keneynicxkunal/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/keneynicxkunal/leetcode/tree/master/0135-candy) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [0045-jump-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/keneynicxkunal/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/keneynicxkunal/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/keneynicxkunal/leetcode/tree/master/0135-candy) |
 ## Trie
 |  |
 | ------- |
