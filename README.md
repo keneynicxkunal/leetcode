@@ -58,6 +58,7 @@
 | [0139-word-break](https://github.com/keneynicxkunal/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/keneynicxkunal/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/keneynicxkunal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0050-powx-n](https://github.com/keneynicxkunal/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/keneynicxkunal/leetcode/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/keneynicxkunal/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/keneynicxkunal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 | [0032-longest-valid-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/keneynicxkunal/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/keneynicxkunal/leetcode/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/keneynicxkunal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Matrix
 |  |
 | ------- |
