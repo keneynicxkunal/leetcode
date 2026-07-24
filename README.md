@@ -55,6 +55,7 @@
 | [0135-candy](https://github.com/keneynicxkunal/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/keneynicxkunal/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/keneynicxkunal/leetcode/tree/master/0139-word-break) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/keneynicxkunal/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/keneynicxkunal/leetcode/tree/master/0139-word-break) |
 ## Linked List
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [0058-length-of-last-word](https://github.com/keneynicxkunal/leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/keneynicxkunal/leetcode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/keneynicxkunal/leetcode/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/keneynicxkunal/leetcode/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -162,6 +165,7 @@
 | [0119-pascals-triangle-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/keneynicxkunal/leetcode/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/keneynicxkunal/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/keneynicxkunal/leetcode/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
@@ -175,6 +179,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/keneynicxkunal/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/keneynicxkunal/leetcode/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -275,4 +280,8 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/keneynicxkunal/leetcode/tree/master/0130-surrounded-regions) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/keneynicxkunal/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
