@@ -57,6 +57,7 @@
 | [0137-single-number-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/keneynicxkunal/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/keneynicxkunal/leetcode/tree/master/0149-max-points-on-a-line) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/keneynicxkunal/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/keneynicxkunal/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/keneynicxkunal/leetcode/tree/master/0149-max-points-on-a-line) |
 ## Linked List
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [0048-rotate-image](https://github.com/keneynicxkunal/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/keneynicxkunal/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/keneynicxkunal/leetcode/tree/master/0066-plus-one) |
+| [0149-max-points-on-a-line](https://github.com/keneynicxkunal/leetcode/tree/master/0149-max-points-on-a-line) |
 ## Recursion
 |  |
 | ------- |
@@ -291,4 +294,8 @@
 | ------- |
 | [0139-word-break](https://github.com/keneynicxkunal/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0140-word-break-ii) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/keneynicxkunal/leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
