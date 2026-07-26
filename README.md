@@ -64,6 +64,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/keneynicxkunal/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keneynicxkunal/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/keneynicxkunal/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0139-word-break](https://github.com/keneynicxkunal/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/keneynicxkunal/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/keneynicxkunal/leetcode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/keneynicxkunal/leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,6 +214,7 @@
 | [0075-sort-colors](https://github.com/keneynicxkunal/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/keneynicxkunal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/keneynicxkunal/leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/keneynicxkunal/leetcode/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -320,4 +324,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/keneynicxkunal/leetcode/tree/master/0164-maximum-gap) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/keneynicxkunal/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
