@@ -96,6 +96,7 @@
 | [0061-rotate-list](https://github.com/keneynicxkunal/leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/keneynicxkunal/leetcode/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/keneynicxkunal/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0050-powx-n](https://github.com/keneynicxkunal/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/keneynicxkunal/leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/keneynicxkunal/leetcode/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/keneynicxkunal/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## String
 |  |
 | ------- |
