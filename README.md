@@ -145,6 +145,7 @@
 | [0049-group-anagrams](https://github.com/keneynicxkunal/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/keneynicxkunal/leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/keneynicxkunal/leetcode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/keneynicxkunal/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/keneynicxkunal/leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/keneynicxkunal/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0140-word-break-ii) |
@@ -269,6 +270,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/keneynicxkunal/leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/keneynicxkunal/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/keneynicxkunal/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/keneynicxkunal/leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/keneynicxkunal/leetcode/tree/master/0143-reorder-list) |
