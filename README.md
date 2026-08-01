@@ -116,6 +116,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/keneynicxkunal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/keneynicxkunal/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/keneynicxkunal/leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/keneynicxkunal/leetcode/tree/master/0233-number-of-digit-one) |
 ## Recursion
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0206-reverse-linked-list](https://github.com/keneynicxkunal/leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/keneynicxkunal/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/keneynicxkunal/leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/keneynicxkunal/leetcode/tree/master/0233-number-of-digit-one) |
 ## String
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 | [0152-maximum-product-subarray](https://github.com/keneynicxkunal/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/keneynicxkunal/leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/keneynicxkunal/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0233-number-of-digit-one](https://github.com/keneynicxkunal/leetcode/tree/master/0233-number-of-digit-one) |
 ## Greedy
 |  |
 | ------- |
