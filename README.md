@@ -115,6 +115,7 @@
 | [0149-max-points-on-a-line](https://github.com/keneynicxkunal/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keneynicxkunal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/keneynicxkunal/leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/keneynicxkunal/leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0203-remove-linked-list-elements](https://github.com/keneynicxkunal/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/keneynicxkunal/leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/keneynicxkunal/leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/keneynicxkunal/leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -306,6 +308,7 @@
 | [0090-subsets-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/keneynicxkunal/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/keneynicxkunal/leetcode/tree/master/0231-power-of-two) |
 ## Depth-First Search
 |  |
 | ------- |
