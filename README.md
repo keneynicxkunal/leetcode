@@ -69,6 +69,7 @@
 | [0174-dungeon-game](https://github.com/keneynicxkunal/leetcode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/keneynicxkunal/leetcode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/keneynicxkunal/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0224-basic-calculator](https://github.com/keneynicxkunal/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/keneynicxkunal/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/keneynicxkunal/leetcode/tree/master/0233-number-of-digit-one) |
+| [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0231-power-of-two](https://github.com/keneynicxkunal/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/keneynicxkunal/leetcode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/keneynicxkunal/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -222,6 +225,7 @@
 | [0174-dungeon-game](https://github.com/keneynicxkunal/leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/keneynicxkunal/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/keneynicxkunal/leetcode/tree/master/0233-number-of-digit-one) |
+| [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -376,4 +380,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/keneynicxkunal/leetcode/tree/master/0169-majority-element) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
