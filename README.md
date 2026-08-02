@@ -70,6 +70,7 @@
 | [0179-largest-number](https://github.com/keneynicxkunal/leetcode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/keneynicxkunal/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0231-power-of-two](https://github.com/keneynicxkunal/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/keneynicxkunal/leetcode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/keneynicxkunal/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/keneynicxkunal/leetcode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -384,4 +387,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
