@@ -311,6 +311,7 @@
 | [0224-basic-calculator](https://github.com/keneynicxkunal/leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/keneynicxkunal/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/keneynicxkunal/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/keneynicxkunal/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Matrix
 |  |
@@ -421,8 +422,10 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/keneynicxkunal/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/keneynicxkunal/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/keneynicxkunal/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/keneynicxkunal/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
