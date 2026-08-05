@@ -71,6 +71,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/keneynicxkunal/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/keneynicxkunal/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/keneynicxkunal/leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/keneynicxkunal/leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/keneynicxkunal/leetcode/tree/master/1406-stone-game-iii) |
@@ -122,6 +123,7 @@
 | [0066-plus-one](https://github.com/keneynicxkunal/leetcode/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/keneynicxkunal/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keneynicxkunal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/keneynicxkunal/leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/keneynicxkunal/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/keneynicxkunal/leetcode/tree/master/0231-power-of-two) |
@@ -452,4 +454,24 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/keneynicxkunal/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/keneynicxkunal/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/keneynicxkunal/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/keneynicxkunal/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/keneynicxkunal/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/keneynicxkunal/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
