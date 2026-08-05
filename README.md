@@ -308,6 +308,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/keneynicxkunal/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keneynicxkunal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/keneynicxkunal/leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/keneynicxkunal/leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/keneynicxkunal/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0227-basic-calculator-ii) |
@@ -423,6 +424,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/keneynicxkunal/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/keneynicxkunal/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/keneynicxkunal/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
