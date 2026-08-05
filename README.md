@@ -73,6 +73,7 @@
 | [0200-number-of-islands](https://github.com/keneynicxkunal/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/keneynicxkunal/leetcode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0212-word-search-ii) |
+| [0218-the-skyline-problem](https://github.com/keneynicxkunal/leetcode/tree/master/0218-the-skyline-problem) |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/keneynicxkunal/leetcode/tree/master/1406-stone-game-iii) |
@@ -206,6 +207,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/keneynicxkunal/leetcode/tree/master/0169-majority-element) |
+| [0218-the-skyline-problem](https://github.com/keneynicxkunal/leetcode/tree/master/0218-the-skyline-problem) |
 ## Two Pointers
 |  |
 | ------- |
@@ -282,6 +284,7 @@
 | [0164-maximum-gap](https://github.com/keneynicxkunal/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/keneynicxkunal/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/keneynicxkunal/leetcode/tree/master/0179-largest-number) |
+| [0218-the-skyline-problem](https://github.com/keneynicxkunal/leetcode/tree/master/0218-the-skyline-problem) |
 | [3731-find-missing-elements](https://github.com/keneynicxkunal/leetcode/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
@@ -302,6 +305,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/keneynicxkunal/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/keneynicxkunal/leetcode/tree/master/0218-the-skyline-problem) |
 ## Merge Sort
 |  |
 | ------- |
@@ -479,4 +483,20 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/keneynicxkunal/leetcode/tree/master/0204-count-primes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/keneynicxkunal/leetcode/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/keneynicxkunal/leetcode/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/keneynicxkunal/leetcode/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/keneynicxkunal/leetcode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
