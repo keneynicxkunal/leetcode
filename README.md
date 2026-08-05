@@ -351,6 +351,7 @@
 | [0098-validate-binary-search-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/keneynicxkunal/leetcode/tree/master/0130-surrounded-regions) |
+| [3310-remove-methods-from-project](https://github.com/keneynicxkunal/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -390,6 +391,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/keneynicxkunal/leetcode/tree/master/0130-surrounded-regions) |
+| [3310-remove-methods-from-project](https://github.com/keneynicxkunal/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Memoization
 |  |
 | ------- |
@@ -428,4 +430,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/keneynicxkunal/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/keneynicxkunal/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/keneynicxkunal/leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
