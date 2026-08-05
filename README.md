@@ -309,6 +309,7 @@
 | [0143-reorder-list](https://github.com/keneynicxkunal/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keneynicxkunal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/keneynicxkunal/leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/keneynicxkunal/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/keneynicxkunal/leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/keneynicxkunal/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0227-basic-calculator-ii) |
@@ -368,6 +369,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/keneynicxkunal/leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -377,12 +379,14 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/keneynicxkunal/leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/keneynicxkunal/leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Union-Find
 |  |
 | ------- |
@@ -425,6 +429,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/keneynicxkunal/leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/keneynicxkunal/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/keneynicxkunal/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/keneynicxkunal/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -436,4 +441,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/keneynicxkunal/leetcode/tree/master/3310-remove-methods-from-project) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/keneynicxkunal/leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
