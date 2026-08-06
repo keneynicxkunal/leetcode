@@ -135,6 +135,7 @@
 | [0060-permutation-sequence](https://github.com/keneynicxkunal/leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/keneynicxkunal/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/keneynicxkunal/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/keneynicxkunal/leetcode/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/keneynicxkunal/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keneynicxkunal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/keneynicxkunal/leetcode/tree/master/0204-count-primes) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keneynicxkunal/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/keneynicxkunal/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/keneynicxkunal/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/keneynicxkunal/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keneynicxkunal/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -539,4 +541,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0229-majority-element-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/keneynicxkunal/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
