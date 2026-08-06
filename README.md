@@ -80,6 +80,7 @@
 | [0220-contains-duplicate-iii](https://github.com/keneynicxkunal/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/keneynicxkunal/leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/keneynicxkunal/leetcode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0229-majority-element-ii) |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/keneynicxkunal/leetcode/tree/master/1406-stone-game-iii) |
@@ -103,6 +104,7 @@
 | [0149-max-points-on-a-line](https://github.com/keneynicxkunal/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/keneynicxkunal/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/keneynicxkunal/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0229-majority-element-ii) |
 | [3731-find-missing-elements](https://github.com/keneynicxkunal/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -300,6 +302,7 @@
 | [0217-contains-duplicate](https://github.com/keneynicxkunal/leetcode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/keneynicxkunal/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/keneynicxkunal/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0229-majority-element-ii) |
 | [3731-find-missing-elements](https://github.com/keneynicxkunal/leetcode/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
@@ -455,6 +458,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/keneynicxkunal/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0229-majority-element-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -523,4 +527,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/keneynicxkunal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
