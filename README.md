@@ -134,6 +134,7 @@
 | [0050-powx-n](https://github.com/keneynicxkunal/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/keneynicxkunal/leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/keneynicxkunal/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/keneynicxkunal/leetcode/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/keneynicxkunal/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keneynicxkunal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/keneynicxkunal/leetcode/tree/master/0204-count-primes) |
@@ -184,6 +185,7 @@
 | [0044-wildcard-matching](https://github.com/keneynicxkunal/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/keneynicxkunal/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/keneynicxkunal/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/keneynicxkunal/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/keneynicxkunal/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/keneynicxkunal/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/keneynicxkunal/leetcode/tree/master/0079-word-search) |
@@ -375,10 +377,12 @@
 | [0043-multiply-strings](https://github.com/keneynicxkunal/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/keneynicxkunal/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/keneynicxkunal/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/keneynicxkunal/leetcode/tree/master/0068-text-justification) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/keneynicxkunal/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/keneynicxkunal/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/keneynicxkunal/leetcode/tree/master/0136-single-number) |
