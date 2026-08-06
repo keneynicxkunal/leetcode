@@ -81,6 +81,7 @@
 | [0221-maximal-square](https://github.com/keneynicxkunal/leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/keneynicxkunal/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0229-majority-element-ii) |
+| [0312-burst-balloons](https://github.com/keneynicxkunal/leetcode/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/keneynicxkunal/leetcode/tree/master/1406-stone-game-iii) |
@@ -265,6 +266,7 @@
 | [0221-maximal-square](https://github.com/keneynicxkunal/leetcode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/keneynicxkunal/leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0312-burst-balloons](https://github.com/keneynicxkunal/leetcode/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/keneynicxkunal/leetcode/tree/master/1406-stone-game-iii) |
