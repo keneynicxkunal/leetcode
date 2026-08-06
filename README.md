@@ -136,6 +136,7 @@
 | [0066-plus-one](https://github.com/keneynicxkunal/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/keneynicxkunal/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/keneynicxkunal/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/keneynicxkunal/leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/keneynicxkunal/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keneynicxkunal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/keneynicxkunal/leetcode/tree/master/0204-count-primes) |
@@ -257,6 +258,7 @@
 | [0055-jump-game](https://github.com/keneynicxkunal/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/keneynicxkunal/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/keneynicxkunal/leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/keneynicxkunal/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -448,6 +450,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/keneynicxkunal/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/keneynicxkunal/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
