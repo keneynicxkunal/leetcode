@@ -116,6 +116,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/keneynicxkunal/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/keneynicxkunal/leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/keneynicxkunal/leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/keneynicxkunal/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/keneynicxkunal/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/keneynicxkunal/leetcode/tree/master/0206-reverse-linked-list) |
@@ -234,6 +235,7 @@
 | [0075-sort-colors](https://github.com/keneynicxkunal/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/keneynicxkunal/leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/keneynicxkunal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/keneynicxkunal/leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keneynicxkunal/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
