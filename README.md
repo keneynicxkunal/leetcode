@@ -75,6 +75,7 @@
 | [0212-word-search-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keneynicxkunal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/keneynicxkunal/leetcode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/keneynicxkunal/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/keneynicxkunal/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
@@ -99,6 +100,7 @@
 | [0140-word-break-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/keneynicxkunal/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/keneynicxkunal/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/keneynicxkunal/leetcode/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/keneynicxkunal/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -292,6 +294,7 @@
 | [0169-majority-element](https://github.com/keneynicxkunal/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/keneynicxkunal/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keneynicxkunal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/keneynicxkunal/leetcode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/keneynicxkunal/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/keneynicxkunal/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [3731-find-missing-elements](https://github.com/keneynicxkunal/leetcode/tree/master/3731-find-missing-elements) |
