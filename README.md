@@ -85,6 +85,7 @@
 | [0312-burst-balloons](https://github.com/keneynicxkunal/leetcode/tree/master/0312-burst-balloons) |
 | [0327-count-of-range-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/keneynicxkunal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/keneynicxkunal/leetcode/tree/master/0330-patching-array) |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/keneynicxkunal/leetcode/tree/master/1406-stone-game-iii) |
@@ -296,6 +297,7 @@
 | [0134-gas-station](https://github.com/keneynicxkunal/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/keneynicxkunal/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/keneynicxkunal/leetcode/tree/master/0179-largest-number) |
+| [0330-patching-array](https://github.com/keneynicxkunal/leetcode/tree/master/0330-patching-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keneynicxkunal/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
 |  |
