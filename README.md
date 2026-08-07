@@ -66,6 +66,7 @@
 | [0152-maximum-product-subarray](https://github.com/keneynicxkunal/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keneynicxkunal/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/keneynicxkunal/leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/keneynicxkunal/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keneynicxkunal/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/keneynicxkunal/leetcode/tree/master/0169-majority-element) |
@@ -230,6 +231,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keneynicxkunal/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/keneynicxkunal/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keneynicxkunal/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0327-count-of-range-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0327-count-of-range-sum) |
 ## Divide and Conquer
