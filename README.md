@@ -81,6 +81,7 @@
 | [0221-maximal-square](https://github.com/keneynicxkunal/leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/keneynicxkunal/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/keneynicxkunal/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0312-burst-balloons](https://github.com/keneynicxkunal/leetcode/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
@@ -553,4 +554,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/keneynicxkunal/leetcode/tree/master/0069-sqrtx) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/keneynicxkunal/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
