@@ -86,6 +86,7 @@
 | [0327-count-of-range-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/keneynicxkunal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/keneynicxkunal/leetcode/tree/master/0330-patching-array) |
+| [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/keneynicxkunal/leetcode/tree/master/1406-stone-game-iii) |
@@ -204,6 +205,7 @@
 | [0227-basic-calculator-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/keneynicxkunal/leetcode/tree/master/0273-integer-to-english-words) |
+| [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keneynicxkunal/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -324,6 +326,7 @@
 | [0218-the-skyline-problem](https://github.com/keneynicxkunal/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/keneynicxkunal/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0229-majority-element-ii) |
+| [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [3731-find-missing-elements](https://github.com/keneynicxkunal/leetcode/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
@@ -347,6 +350,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/keneynicxkunal/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keneynicxkunal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/keneynicxkunal/leetcode/tree/master/0218-the-skyline-problem) |
+| [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
 ## Merge Sort
 |  |
 | ------- |
@@ -416,6 +420,7 @@
 | [0130-surrounded-regions](https://github.com/keneynicxkunal/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/keneynicxkunal/leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/keneynicxkunal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [3310-remove-methods-from-project](https://github.com/keneynicxkunal/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Monotonic Stack
 |  |
@@ -511,6 +516,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/keneynicxkunal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [3310-remove-methods-from-project](https://github.com/keneynicxkunal/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Iterator
 |  |
@@ -586,4 +592,16 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/keneynicxkunal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
