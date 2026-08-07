@@ -87,6 +87,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/keneynicxkunal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/keneynicxkunal/leetcode/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0334-increasing-triplet-subsequence](https://github.com/keneynicxkunal/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/keneynicxkunal/leetcode/tree/master/1406-stone-game-iii) |
@@ -300,6 +301,7 @@
 | [0135-candy](https://github.com/keneynicxkunal/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/keneynicxkunal/leetcode/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/keneynicxkunal/leetcode/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/keneynicxkunal/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keneynicxkunal/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
 |  |
@@ -604,4 +606,8 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/keneynicxkunal/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
