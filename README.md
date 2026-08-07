@@ -83,6 +83,7 @@
 | [0229-majority-element-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/keneynicxkunal/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0312-burst-balloons](https://github.com/keneynicxkunal/leetcode/tree/master/0312-burst-balloons) |
+| [0327-count-of-range-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0327-count-of-range-sum) |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/keneynicxkunal/leetcode/tree/master/1406-stone-game-iii) |
@@ -218,6 +219,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keneynicxkunal/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keneynicxkunal/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0327-count-of-range-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0327-count-of-range-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | [0169-majority-element](https://github.com/keneynicxkunal/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keneynicxkunal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/keneynicxkunal/leetcode/tree/master/0218-the-skyline-problem) |
+| [0327-count-of-range-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0327-count-of-range-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -344,6 +347,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/keneynicxkunal/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0327-count-of-range-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0327-count-of-range-sum) |
 ## Stack
 |  |
 | ------- |
@@ -529,10 +533,12 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/keneynicxkunal/leetcode/tree/master/0218-the-skyline-problem) |
+| [0327-count-of-range-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0327-count-of-range-sum) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/keneynicxkunal/leetcode/tree/master/0218-the-skyline-problem) |
+| [0327-count-of-range-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0327-count-of-range-sum) |
 ## Sweep Line
 |  |
 | ------- |
@@ -542,6 +548,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/keneynicxkunal/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/keneynicxkunal/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0327-count-of-range-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0327-count-of-range-sum) |
 ## Quickselect
 |  |
 | ------- |
@@ -558,4 +565,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/keneynicxkunal/leetcode/tree/master/0238-product-of-array-except-self) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
