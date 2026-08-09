@@ -95,6 +95,7 @@
 | [0335-self-crossing](https://github.com/keneynicxkunal/leetcode/tree/master/0335-self-crossing) |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/keneynicxkunal/leetcode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/keneynicxkunal/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -163,6 +164,7 @@
 | [0335-self-crossing](https://github.com/keneynicxkunal/leetcode/tree/master/0335-self-crossing) |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/keneynicxkunal/leetcode/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/keneynicxkunal/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keneynicxkunal/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -311,6 +313,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/keneynicxkunal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/keneynicxkunal/leetcode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keneynicxkunal/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -528,6 +531,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/keneynicxkunal/leetcode/tree/master/1406-stone-game-iii) |
 ## Design
 |  |
@@ -609,6 +613,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/keneynicxkunal/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1140-stone-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1140-stone-game-ii) |
 ## Treap
 |  |
 | ------- |
@@ -645,4 +650,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/keneynicxkunal/leetcode/tree/master/0037-sudoku-solver) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
