@@ -131,6 +131,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/keneynicxkunal/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/keneynicxkunal/leetcode/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/keneynicxkunal/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/keneynicxkunal/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/keneynicxkunal/leetcode/tree/master/0206-reverse-linked-list) |
