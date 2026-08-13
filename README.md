@@ -97,6 +97,7 @@
 | [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/keneynicxkunal/leetcode/tree/master/1406-stone-game-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/keneynicxkunal/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keneynicxkunal/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/keneynicxkunal/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/keneynicxkunal/leetcode/tree/master/3731-find-missing-elements) |
@@ -229,6 +230,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/keneynicxkunal/leetcode/tree/master/0273-integer-to-english-words) |
 | [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/keneynicxkunal/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keneynicxkunal/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keneynicxkunal/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
@@ -606,6 +608,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/keneynicxkunal/leetcode/tree/master/0218-the-skyline-problem) |
 | [0327-count-of-range-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0327-count-of-range-sum) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/keneynicxkunal/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Sweep Line
 |  |
 | ------- |
@@ -616,6 +619,7 @@
 | [0218-the-skyline-problem](https://github.com/keneynicxkunal/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/keneynicxkunal/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0327-count-of-range-sum](https://github.com/keneynicxkunal/leetcode/tree/master/0327-count-of-range-sum) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/keneynicxkunal/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Quickselect
 |  |
 | ------- |
