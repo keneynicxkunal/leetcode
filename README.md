@@ -97,6 +97,7 @@
 | [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/keneynicxkunal/leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/keneynicxkunal/leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/keneynicxkunal/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keneynicxkunal/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/keneynicxkunal/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -177,6 +178,7 @@
 | [1140-stone-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/keneynicxkunal/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/keneynicxkunal/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/keneynicxkunal/leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/keneynicxkunal/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keneynicxkunal/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
@@ -346,6 +348,7 @@
 | [0179-largest-number](https://github.com/keneynicxkunal/leetcode/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/keneynicxkunal/leetcode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/keneynicxkunal/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [2029-stone-game-ix](https://github.com/keneynicxkunal/leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keneynicxkunal/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keneynicxkunal/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
@@ -559,6 +562,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/keneynicxkunal/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0229-majority-element-ii) |
+| [2029-stone-game-ix](https://github.com/keneynicxkunal/leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
@@ -567,6 +571,7 @@
 | [1140-stone-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/keneynicxkunal/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/keneynicxkunal/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/keneynicxkunal/leetcode/tree/master/2029-stone-game-ix) |
 ## Design
 |  |
 | ------- |
@@ -691,15 +696,18 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/keneynicxkunal/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/keneynicxkunal/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/keneynicxkunal/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/keneynicxkunal/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/keneynicxkunal/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/keneynicxkunal/leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
