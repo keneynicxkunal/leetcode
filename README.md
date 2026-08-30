@@ -534,6 +534,7 @@
 | [0098-validate-binary-search-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/keneynicxkunal/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/keneynicxkunal/leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -556,6 +557,7 @@
 | [0098-validate-binary-search-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -572,6 +574,7 @@
 | [0098-validate-binary-search-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -600,6 +603,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/keneynicxkunal/leetcode/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/keneynicxkunal/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/keneynicxkunal/leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/keneynicxkunal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
