@@ -276,6 +276,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/keneynicxkunal/leetcode/tree/master/0273-integer-to-english-words) |
 | [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0940-distinct-subsequences-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/keneynicxkunal/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/keneynicxkunal/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/keneynicxkunal/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -386,6 +387,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/keneynicxkunal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/keneynicxkunal/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/keneynicxkunal/leetcode/tree/master/1510-stone-game-iv) |
