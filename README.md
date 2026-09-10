@@ -559,6 +559,7 @@
 | [0200-number-of-islands](https://github.com/keneynicxkunal/leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/keneynicxkunal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/keneynicxkunal/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/keneynicxkunal/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Monotonic Stack
 |  |
@@ -584,6 +585,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/keneynicxkunal/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/keneynicxkunal/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/keneynicxkunal/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -602,6 +604,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/keneynicxkunal/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/keneynicxkunal/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/keneynicxkunal/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
