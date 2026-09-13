@@ -95,6 +95,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/keneynicxkunal/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/keneynicxkunal/leetcode/tree/master/0335-self-crossing) |
 | [0486-predict-the-winner](https://github.com/keneynicxkunal/leetcode/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/keneynicxkunal/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/keneynicxkunal/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/keneynicxkunal/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -526,6 +527,7 @@
 | [0212-word-search-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/keneynicxkunal/leetcode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/keneynicxkunal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0835-image-overlap](https://github.com/keneynicxkunal/leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/keneynicxkunal/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
