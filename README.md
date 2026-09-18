@@ -148,6 +148,7 @@
 | [0229-majority-element-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0229-majority-element-ii) |
 | [1386-cinema-seat-allocation](https://github.com/keneynicxkunal/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/keneynicxkunal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/keneynicxkunal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keneynicxkunal/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/keneynicxkunal/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/keneynicxkunal/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -288,6 +289,7 @@
 | [0273-integer-to-english-words](https://github.com/keneynicxkunal/leetcode/tree/master/0273-integer-to-english-words) |
 | [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0940-distinct-subsequences-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/keneynicxkunal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/keneynicxkunal/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/keneynicxkunal/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/keneynicxkunal/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -427,6 +429,7 @@
 | [0330-patching-array](https://github.com/keneynicxkunal/leetcode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/keneynicxkunal/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1386-cinema-seat-allocation](https://github.com/keneynicxkunal/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/keneynicxkunal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/keneynicxkunal/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/keneynicxkunal/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/keneynicxkunal/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -460,6 +463,7 @@
 | [0220-contains-duplicate-iii](https://github.com/keneynicxkunal/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0229-majority-element-ii) |
 | [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/keneynicxkunal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/keneynicxkunal/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/keneynicxkunal/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/keneynicxkunal/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
