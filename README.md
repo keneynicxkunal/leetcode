@@ -150,6 +150,7 @@
 | [0169-majority-element](https://github.com/keneynicxkunal/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/keneynicxkunal/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0229-majority-element-ii) |
+| [1096-brace-expansion-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/keneynicxkunal/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/keneynicxkunal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/keneynicxkunal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -298,6 +299,7 @@
 | [0273-integer-to-english-words](https://github.com/keneynicxkunal/leetcode/tree/master/0273-integer-to-english-words) |
 | [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0940-distinct-subsequences-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/keneynicxkunal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/keneynicxkunal/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/keneynicxkunal/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -476,6 +478,7 @@
 | [0220-contains-duplicate-iii](https://github.com/keneynicxkunal/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0229-majority-element-ii) |
 | [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [1096-brace-expansion-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/keneynicxkunal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/keneynicxkunal/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/keneynicxkunal/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -502,6 +505,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0212-word-search-ii) |
+| [1096-brace-expansion-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keneynicxkunal/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -536,6 +540,7 @@
 | [0227-basic-calculator-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/keneynicxkunal/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/keneynicxkunal/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1096-brace-expansion-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -670,6 +675,7 @@
 | [0130-surrounded-regions](https://github.com/keneynicxkunal/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/keneynicxkunal/leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/keneynicxkunal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1096-brace-expansion-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/keneynicxkunal/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/keneynicxkunal/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Memoization
