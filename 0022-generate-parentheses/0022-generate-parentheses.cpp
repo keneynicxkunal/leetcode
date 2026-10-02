@@ -1,25 +1,32 @@
 class Solution {
 public:
-    vector<string> ans;
 
-    void backtrack(string curr, int open, int close, int n) {
-        // Base case
+    void solve(string curr, int open, int close, int n,
+               vector<string>& ans) {
+
+        // Jab n pairs complete ho gaye
         if (curr.length() == 2 * n) {
             ans.push_back(curr);
             return;
         }
 
-        // Add '('
-        if (open < n)
-            backtrack(curr + "(", open + 1, close, n);
+        // Opening bracket lagao
+        if (open < n) {
+            solve(curr + "(", open + 1, close, n, ans);
+        }
 
-        // Add ')'
-        if (close < open)
-            backtrack(curr + ")", open, close + 1, n);
+        // Closing bracket tabhi lagao
+        // jab close < open
+        if (close < open) {
+            solve(curr + ")", open, close + 1, n, ans);
+        }
     }
 
     vector<string> generateParenthesis(int n) {
-        backtrack("", 0, 0, n);
+        vector<string> ans;
+
+        solve("", 0, 0, n, ans);
+
         return ans;
     }
 };
