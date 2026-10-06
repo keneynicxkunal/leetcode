@@ -303,6 +303,7 @@
 | [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0678-valid-parenthesis-string](https://github.com/keneynicxkunal/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/keneynicxkunal/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/keneynicxkunal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -453,6 +454,7 @@
 | [0330-patching-array](https://github.com/keneynicxkunal/leetcode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/keneynicxkunal/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/keneynicxkunal/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/keneynicxkunal/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/keneynicxkunal/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/keneynicxkunal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/keneynicxkunal/leetcode/tree/master/1927-sum-game) |
@@ -552,6 +554,7 @@
 | [0234-palindrome-linked-list](https://github.com/keneynicxkunal/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/keneynicxkunal/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/keneynicxkunal/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
@@ -896,6 +899,7 @@
 | [0032-longest-valid-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/keneynicxkunal/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/keneynicxkunal/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/keneynicxkunal/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Combinatorics
