@@ -300,6 +300,7 @@
 | [0227-basic-calculator-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/keneynicxkunal/leetcode/tree/master/0273-integer-to-english-words) |
+| [0301-remove-invalid-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0332-reconstruct-itinerary](https://github.com/keneynicxkunal/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0678-valid-parenthesis-string](https://github.com/keneynicxkunal/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0856-score-of-parentheses) |
@@ -517,6 +518,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/keneynicxkunal/leetcode/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keneynicxkunal/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Heap (Priority Queue)
@@ -691,6 +693,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/keneynicxkunal/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/keneynicxkunal/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/keneynicxkunal/leetcode/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/keneynicxkunal/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/keneynicxkunal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1096-brace-expansion-ii](https://github.com/keneynicxkunal/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/keneynicxkunal/leetcode/tree/master/3310-remove-methods-from-project) |
